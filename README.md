@@ -6,7 +6,7 @@
 
 This project is a simple Java-based MIDI player that plays predefined musical notes. It demonstrates the use of the javax.sound.midi package to create and send MIDI messages.
 
-## 📦 Установка
+## 📦 Installation
 
 1. Clone repositories:
    ```bash
