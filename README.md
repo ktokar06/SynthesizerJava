@@ -38,7 +38,7 @@ This project is a simple Java-based MIDI player that plays predefined musical no
 2. Notes are defined in the NOTES array, where each entry contains:
 
     - MIDI note number.
-    - 
+      
     - Duration of the note.
       
     - Number of times the note should be played.
